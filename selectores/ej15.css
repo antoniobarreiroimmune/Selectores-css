@@ -1,1 +1,1 @@
-ul li:nth-child(2n + 1){font-weight: bold;}
+ul li:nth-child(odd){font-weight: bold;}
